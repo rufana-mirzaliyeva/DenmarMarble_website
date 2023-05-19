@@ -13,11 +13,11 @@
     <link rel="stylesheet" href="./CSS/styles.css">
    
 </head>
-<body>
+<body onload="Products()">
 <header class="header">
     <a href="#" class="header__logo"> 
         <div class="nav__img">
-        <img src="./images/maximo.svg" alt="" class="img">
+        <img src="./images/Logo.svg" alt="" class="img">
     </div>
     </a>
     <div class="header__toggle">
@@ -27,7 +27,7 @@
         <div class="nav__content bd-grid">
             <a href="#" class="nav__perfil">
                 <div class="nav__img">
-                    <img src="./images/maximo.svg" alt="" class="toggle__img">
+                    <img src="./images/Logo.svg" alt="" class="toggle__img">
                 </div>
             </a>
             <div class="nav__menu">
@@ -62,7 +62,7 @@
                 We have different kind of natural stones types. Every kind has own slab, tile, block. Generally, slabs are used on wall and countertops while tiles are used on floor and wall. We could provide you with the wide range of sizes. Discover our products below.
             </p>
     
-            <div class="luxury__container grid" >
+            <div class="product__container grid" >
               <!-- Inserted with Javascript -->
             </div>
           </section>
@@ -212,8 +212,11 @@
     <script src="https://kit.fontawesome.com/49180fc265.js" crossorigin="anonymous"></script>
 
     <!-- ===== JAVASCRİPT ===== -->
+    <script>
+    const page = "luxury"
+    </script>
     <script src="./JS/main.js"></script>
-    <script src="./JS/pavers.js"></script>
+    <script src="./JS/products.js"></script>
   
 </body>
 </html>

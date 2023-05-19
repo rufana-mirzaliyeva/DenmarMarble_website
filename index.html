@@ -15,7 +15,7 @@
     <!-- ===== CSS ===== -->
     <link rel="stylesheet" href="./CSS/styles.css" />
   </head>
-  <body>
+  <body onload="Products()">
     <!-- ===== NAVBAR =====-->
     <header class="header">
       <a href="#" class="header__logo">
@@ -186,7 +186,7 @@
         <h1 class="section__title">Featured Product</h1>
         <p class="section__subtitle">Take a look to our featured products</p>
 
-        <div class="featured__container grid">
+        <div class="product__container featured__container grid">
           <!-- inserted with Javascript -->
         </div>
       </section>
@@ -377,8 +377,12 @@
     ></script>
 
     <!-- ===== JAVASCRİPT ===== -->
+    <script>
+      const page = "true"
+  </script>
   
     <script src="./JS/main.js"></script>
     <script src="./JS/homepg.js"></script>
+    <script src="./JS/products.js"></script>
   </body>
 </html>

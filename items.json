@@ -19,7 +19,7 @@
       "product__type": "luxury",
       "title": "Blue Celeste 3",
       "image": ["./images/blueCeleste/blueCelesteBlock7.jpg", "./images/blueCeleste/blueCelesteBlock8.jpg", "./images/blueCeleste/blueCelesteBlock9.jpg"],
-      "featured": true
+      "featured": false
     },
     {
       "id": "4",
