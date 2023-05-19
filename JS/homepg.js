@@ -7,7 +7,7 @@ setInterval(() => {
   counter++;
   img.classList.add("show__img");
 
-  if (counter > 7) {
+  if (counter > 9) {
     counter = 1;
   }
 }, 2000);
@@ -23,8 +23,8 @@ const getProducts = async () => {
     data = data.items;
     let products = data.filter((items) => items.featured == true);
     products = products.map((item) => {
-      const { type, title, id, image } = item;
-      return { type, title, id, image };
+      const {title, id, image } = item;
+      return {title, id, image };
     });
     return products;
   } catch (error) {
@@ -42,7 +42,7 @@ const displayProducts = (products) => {
         <img src=${product.image[0]} alt="product image" class="featured__img">
       <div class="featured__data"> 
           <h3 class="featured__title">${product.title}</h3>
-          <span class="featured__type">${product.type}</span>
+        
       </div>
       <button class = "featured__button" data-id=${product.id}> See more</button> 
     </div>

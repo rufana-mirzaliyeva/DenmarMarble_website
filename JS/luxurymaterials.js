@@ -10,8 +10,8 @@ const luxuryProducts = async () => {
       data = data.items;
       let luxProducts = data.filter((items) => items.product__type == "luxury");
       luxProducts = luxProducts.map((item) => {
-        const { type, title, id, image } = item;
-        return { type, title, id, image };
+        const {title, id, image } = item;
+        return {title, id, image };
       });
       return luxProducts;
     } catch (error) {
@@ -28,7 +28,6 @@ const displayProducts = (luxProducts) => {
         <img src=${product.image[0]} alt="product image" class="luxury__img">
       <div class="luxury__data"> 
           <h3 class="luxury__title">${product.title}</h3>
-          <span class="luxury__type">${product.type}</span>
       </div>
       <button class = "luxury__button" data-id=${product.id} > See more</button> 
     </div>
