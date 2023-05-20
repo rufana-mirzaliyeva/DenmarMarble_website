@@ -13,7 +13,7 @@ const Products = async() => {
       let result = await fetch("items.json");
       let data = await result.json();
       data = data.items;
-      let products = data.filter((items) => items.product__type === page);
+      let products = data.filter((items) => items.product__type === page || items.featured == page);
       products = products.map((item) => {
         const { title, id, image } = item;
         return { title, id, image };
