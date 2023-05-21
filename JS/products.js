@@ -1,7 +1,6 @@
 /* ---PAVER PRODUCTS--- */
 
 const ProductsDOM = document.querySelector(".product__container");
-const featuredProduct = document.querySelector(".featured__container")
 
 //const pageName = document.querySelector('#page_name');
 //console.log(pageName.dataset.page)

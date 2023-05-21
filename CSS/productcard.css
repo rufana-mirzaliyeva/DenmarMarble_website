@@ -1,6 +1,6 @@
 /* ===== PRODUCT CARD PAGE ===== */
 
-.product__card {
+.product__detail_card {
     display: flex;
     justify-content: center;
     align-items: center;

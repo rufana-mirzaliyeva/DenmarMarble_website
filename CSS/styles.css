@@ -324,10 +324,11 @@ img {
  
 }
 
-/* ===== Featured Products Section ==== */
+/* ===== Products Section ==== */
 
 .product__container {
   row-gap: 2.5rem;
+  column-gap: 1rem;
 }
 .product__card {
   position: relative;
@@ -337,6 +338,7 @@ img {
   border: 1px solid white;
   overflow-y: hidden;
   transition: 0.3s;
+  
 }
 
 .product__img {
@@ -367,13 +369,14 @@ img {
 }
 .product__card:hover {
   box-shadow: 0 12px 32px hsla(0, 0%, 20%, 0.1);
-  padding: 2rem 0 3rem 0;
+  padding: 2rem 0rem 3rem 0;
 }
 
 .product__card:hover .product__button {
   transform: translateY(0);
   opacity: 1;
 }
+/* ===== Products Section ended ==== */
 
 .mission {
   position: relative;

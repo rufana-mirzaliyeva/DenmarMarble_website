@@ -27,30 +27,44 @@ const slider_load = () => {
 }
 
 
-let mainImg = document.querySelector(".main__img");
+let mainSliderImg = document.querySelector(".main__img");
 let modal = document.getElementById("myModal");
 let span = document.getElementsByClassName("close")[0];
 let modalImage = document.getElementById("modal__image");
 
-const id = localStorage.getItem("id")
-const main_img = document.querySelector("#main-slider ul")
-const img_ul = document.querySelector("#thumbnail-slider ul")
+const id = localStorage.getItem("id");
+const mainImg = document.querySelector("#main-slider ul");
+const imgUl = document.querySelector("#thumbnail-slider ul");
 
 
 //Product card details
-const product_detail = async () => {
+const productImg = async () => {
   const response = await fetch("../items.json")
   const data = await response.json()
   const product = data.items.find(data => data.id == id)
 
+  
+
   product.image.map(img => {
-    main_img.innerHTML += `
-      <li class="splide__slide"> <img src=${img} alt="" /></li>`
-    img_ul.innerHTML += `<li class="splide__slide"><img src=${img} alt="" "/></li>`
-  })
-  slider_load()
+    mainSliderImg.innerHTML += `
+      <li class="splide__slide"> 
+      <img src=${img} alt="" />
+      </li>`
+    imgUl.innerHTML += `<li class="splide__slide">
+    <img src=${img} alt="" "/>
+    </li>`
+     
+    
+  });
+  slider_load();
+ 
 }
-product_detail()
+productImg();
+
+
+
+
+
 
 // Open the modal
 mainImg.onclick = function (e) {

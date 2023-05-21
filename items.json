@@ -5,6 +5,7 @@
       "product__type": "paver",
       "title": "Blue Celeste 1",
       "image": ["./images/blueCeleste/blueCelesteBlock1.jpeg", "./images/blueCeleste/blueCelesteBlock2.jpeg", "./images/blueCeleste/blueCelesteBlock3.jpg"],
+      "detail": "./images/blueCeleste/blueCelesteBlock11",
       "featured": true
     },
     {
