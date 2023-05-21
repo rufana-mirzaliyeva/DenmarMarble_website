@@ -13,6 +13,7 @@
       "product__type": "paver",
       "title": "Blue Celeste 2",
       "image": ["./images/blueCeleste/blueCelesteBlock4.jpg", "./images/blueCeleste/blueCelesteBlock5.jpg", "./images/blueCeleste/blueCelesteBlock6.jpg"],
+      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
       "featured": false
     },
     {
@@ -20,12 +21,14 @@
       "product__type": "luxury",
       "title": "Blue Celeste 3",
       "image": ["./images/blueCeleste/blueCelesteBlock7.jpg", "./images/blueCeleste/blueCelesteBlock8.jpg", "./images/blueCeleste/blueCelesteBlock9.jpg"],
+      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
       "featured": false
     },
     {
       "id": "4",
       "product__type": "luxury",
       "title": "Blue Celeste 4",
+      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
       "image": ["./images/blueCeleste/blueCelesteBlock10.jpg", "./images/blueCeleste/blueCelesteBlock11.jpg", "./images/blueCeleste/blueCelesteSlab1.jpg"],
       "featured": true
     }
