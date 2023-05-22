@@ -35,9 +35,12 @@ let modalImage = document.getElementById("modal__image");
 const id = localStorage.getItem("id");
 const mainImg = document.querySelector("#main-slider ul");
 const imgUl = document.querySelector("#thumbnail-slider ul");
+const productDetail = document.querySelector(".product__detail")
 
 
 //Product card details
+/*
+
 const productImg = async () => {
   const response = await fetch("../items.json")
   const data = await response.json()
@@ -55,9 +58,31 @@ const productImg = async () => {
   slider_load();
  
 }
+productImg(); */
+
+// <img src=${detail} alt="">
+const productImg = async () => {
+  const response = await fetch("../items.json")
+  const data = await response.json()
+  const product = data.items.find(data => data.id == id)
+
+  product.image.map(img => {
+    mainSliderImg.innerHTML += `
+      <li class="splide__slide"> 
+      <img src=${img} alt="" />
+      </li>`
+    imgUl.innerHTML += `<li class="splide__slide">
+    <img src=${img} alt="" "/>
+    </li>`
+   
+  });
+
+  slider_load();
+ product.detail (det => {
+  productDetail = `<img src=${det} alt=""></img>`
+ })
+}
 productImg();
-
-
 
 
 

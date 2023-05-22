@@ -24,7 +24,7 @@
         "./images/block-slab-tile/calacatta-copper/calacatta-copper-slab8.jpg",
         "./images/block-slab-tile/calacatta-copper/calacatta-copper-slab9.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": true
     },
     {
@@ -48,7 +48,7 @@
         "./images/block-slab-tile/calacatta-oro/calacatta-oro-tile2.jpg",
         "./images/block-slab-tile/calacatta-oro/calacatta-oro-tile3.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": true
     },
     {
@@ -64,7 +64,7 @@
         "./images/block-slab-tile/giallo/giallo-slab2.jpg",
         "./images/block-slab-tile/giallo/giallo-slab3.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": true
     },
     {
@@ -86,7 +86,7 @@
         "./images/block-slab-tile/blue-celeste/blue-celeste-slab1.jpg",
         "./images/block-slab-tile/blue-celeste/blue-celeste-slab2.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": true
     },
     {
@@ -108,7 +108,7 @@
         "./images/block-slab-tile/light-travertine/light-travertine-tile3.jpg",
         "./images/block-slab-tile/light-travertine/light-travertine-tile4.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": false
     },
     {
@@ -134,7 +134,7 @@
         "./images/block-slab-tile/medium-travertine/medium-travertine-slab2.jpg",
         "./images/block-slab-tile/medium-travertine/medium-travertine-tile1.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": false
     },
     {
@@ -160,7 +160,7 @@
         "./images/block-slab-tile/bianco-carrara/bianco-carrara-slab11.jpg",
         "./images/block-slab-tile/bianco-carrara/bianco-carrara-slab12.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": false
     },
     {
@@ -178,7 +178,7 @@
         "./images/block-slab-tile/carrara-misty/carrara-misty-slab2.jpg",
         "./images/block-slab-tile/carrara-misty/carrara-misty-slab3.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": false
     },
     {
@@ -194,7 +194,7 @@
         "./images/block-slab-tile/imperial-carrara/imperial-carrara-slab3.jpg",
         "./images/block-slab-tile/imperial-carrara/imperial-carrara-slab4.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": false
     },
     {
@@ -226,7 +226,7 @@
         "./images/block-slab-tile/nero-merquina/nero-marquina-tile3.jpg",
         "./images/block-slab-tile/nero-merquina/nero-marquina-tile4.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": false
     },
     {
@@ -246,7 +246,7 @@
         "./images/block-slab-tile/bardiglio/bardiglio-block10.jpg",
         "./images/block-slab-tile/bardiglio/bardiglio-block11.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": false
     },
     {
@@ -268,7 +268,7 @@
         "./images/block-slab-tile/palazzo/palazzo-paver4.jpg",
         "./images/block-slab-tile/palazzo/palazzo-paver5.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": false
     },
     {
@@ -286,7 +286,7 @@
         "./images/block-slab-tile/white-cosmos/white-cosmos-slab2.jpg",
         "./images/block-slab-tile/white-cosmos/white-cosmos-slab3.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": false
     },
     {
@@ -306,7 +306,7 @@
         "./images/block-slab-tile/arabescato/arabescato-paver4.jpg",
         "./images/block-slab-tile/arabescato/arabescato-paver5.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": false
     },
     {
@@ -325,7 +325,7 @@
         "./images/block-slab-tile/spider-beige/vanilya-beige-slab1.jpg",
         "./images/block-slab-tile/spider-beige/vanilya-beige-slab2.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": false
     },
 
@@ -347,7 +347,7 @@
       "./images/paver/arabescato/arabescato-paver2.jpeg",
       "./images/paver/arabescato/arabescato-paver3.jpeg"
     ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+    "detail": "./images/ek.png",
       "featured": false
     },
       {
@@ -362,7 +362,7 @@
       "./images/paver/carrara-misty/carrara-misty-paver5.jpeg",
       "./images/paver/carrara-misty/carrara-misty-paver6.jpeg"
     ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+    "detail": "./images/ek.png",
       "featured": false
     },
       {
@@ -377,7 +377,7 @@
       "./images/paver/full-mix-travertine/full-mix-travertine-paver5.jpg",
       "./images/paver/full-mix-travertine/full-mix-travertine-paver6.jpg"
     ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+    "detail": "./images/ek.png",
       "featured": false
     },
       {
@@ -397,7 +397,7 @@
       "./images/paver/gotham-black/gotham-black-paver10.jpg",
       "./images/paver/gotham-black/gotham-black-paver11.jpg"
     ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+    "detail": "./images/ek.png",
       "featured": false
     },
       {
@@ -414,7 +414,7 @@
       "./images/paver/light-travertine/light-travertine-paver7.jpg",
       "./images/paver/light-travertine/light-travertine-paver8.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": false
     },
       {
@@ -429,7 +429,7 @@
       "./images/paver/myra-fossil-beige/myra-fossil-beige-paver5.jpg",
       "./images/paver/myra-fossil-beige/myra-fossil-beige-paver6.jpg"
     ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+    "detail": "./images/ek.png",
       "featured": false
     },
       {
@@ -463,7 +463,7 @@
       "./images/paver/palazzo/palazzo-marble-paver24.jpeg",
       "./images/paver/palazzo/palazzo-marble-paver25.jpg"
     ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+    "detail": "./images/ek.png",
       "featured": false
     },
       {
@@ -478,7 +478,7 @@
       "./images/paver/philadelphia/philadelphia-travertine-paver5.jpg",
       "./images/paver/philadelphia/philadelphia-travertine-paver6.jpg"
     ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+    "detail": "./images/ek.png",
       "featured": false
     },
     {
@@ -492,7 +492,7 @@
       "./images/paver/scabos-travertine/scabos-paver4.jpg",
       "./images/paver/scabos-travertine/scabos-paver5.jpg"
       ],
-      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "detail": "./images/ek.png",
       "featured": false
     },
     {
@@ -515,7 +515,7 @@
       "./images/paver/silver-travertine/silver-travertine-paver13.jpg",
       "./images/paver/silver-travertine/silver-travertine-paver14.jpg"
     ],
-    "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+    "detail": "./images/ek.png",
     "featured": false
   },
   {
@@ -537,7 +537,7 @@
     "./images/paver/tundra-grey/tundra-grey-paver12.jpg",
     "./images/paver/tundra-grey/tundra-grey-paver13.jpg"
   ],
-  "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+  "detail": "./images/ek.png",
   "featured": false
 },
 {
@@ -551,7 +551,7 @@
   "./images/paver/white-cosmos/white-cosmos-sand-blasted-paver4.jpg",
   "./images/paver/white-cosmos/white-cosmos-sand-blasted-paver5.jpg"
 ],
-"detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+"detail": "./images/ek.png",
 "featured": false
 }
 
