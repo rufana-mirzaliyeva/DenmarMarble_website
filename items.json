@@ -327,6 +327,233 @@
       ],
       "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
       "featured": false
-    }
+    },
+
+
+      {
+      "id": "16",
+      "product__type": "paver",
+      "title": "Arabescato",
+      "image": [
+      "./images/paver/arabescato/arabescato-paver1.jpeg",
+      "./images/paver/arabescato/arabescato-paver2.jpeg",
+      "./images/paver/arabescato/arabescato-paver3.jpeg",
+      "./images/paver/arabescato/arabescato-paver4.jpeg",
+      "./images/paver/arabescato/arabescato-paver5.jpeg",
+      "./images/paver/arabescato/arabescato-paver6.jpeg",
+      "./images/paver/arabescato/arabescato-paver7.jpeg",
+      "./images/paver/arabescato/arabescato-paver8.jpeg",
+      "./images/paver/arabescato/arabescato-paver1.jpeg",
+      "./images/paver/arabescato/arabescato-paver2.jpeg",
+      "./images/paver/arabescato/arabescato-paver3.jpeg"
+    ],
+      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "featured": false
+    },
+      {
+      "id": "17",
+      "product__type": "paver",
+      "title": "Carrara Misty",
+      "image": [
+      "./images/paver/carrara-misty/carrara-misty-paver1.jpeg",
+      "./images/paver/carrara-misty/carrara-misty-paver2.jpeg",
+      "./images/paver/carrara-misty/carrara-misty-paver3.jpeg",
+      "./images/paver/carrara-misty/carrara-misty-paver4.jpeg",
+      "./images/paver/carrara-misty/carrara-misty-paver5.jpeg",
+      "./images/paver/carrara-misty/carrara-misty-paver6.jpeg"
+    ],
+      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "featured": false
+    },
+      {
+      "id": "18",
+      "product__type": "paver",
+      "title": "Mix Travertine",
+      "image": [
+      "./images/paver/full-mix-travertine/full-mix-travertine-paver1.jpg",
+      "./images/paver/full-mix-travertine/full-mix-travertine-paver2.jpg",
+      "./images/paver/full-mix-travertine/full-mix-travertine-paver3.jpg",
+      "./images/paver/full-mix-travertine/full-mix-travertine-paver4.jpg",
+      "./images/paver/full-mix-travertine/full-mix-travertine-paver5.jpg",
+      "./images/paver/full-mix-travertine/full-mix-travertine-paver6.jpg"
+    ],
+      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "featured": false
+    },
+      {
+      "id": "19",
+      "product__type": "luxury",
+      "title": "Gotham Black",
+      "image": [
+      "./images/paver/gotham-black/gotham-black-paver1.jpg",
+      "./images/paver/gotham-black/gotham-black-paver2.jpg",
+      "./images/paver/gotham-black/gotham-black-paver3.jpg",
+      "./images/paver/gotham-black/gotham-black-paver4.jpg",
+      "./images/paver/gotham-black/gotham-black-paver5.jpg",
+      "./images/paver/gotham-black/gotham-black-paver6.jpg",
+      "./images/paver/gotham-black/gotham-black-paver7.jpg",
+      "./images/paver/gotham-black/gotham-black-paver8.jpg",
+      "./images/paver/gotham-black/gotham-black-paver9.jpg",
+      "./images/paver/gotham-black/gotham-black-paver10.jpg",
+      "./images/paver/gotham-black/gotham-black-paver11.jpg"
+    ],
+      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "featured": false
+    },
+      {
+      "id": "20",
+      "product__type": "paver",
+      "title": "Light Travertine",
+      "image": [
+      "./images/paver/light-travertine/light-travertine-paver1.jpg",
+      "./images/paver/light-travertine/light-travertine-paver2.jpg",
+      "./images/paver/light-travertine/light-travertine-paver3.jpg",
+      "./images/paver/light-travertine/light-travertine-paver4.jpg",
+      "./images/paver/light-travertine/light-travertine-paver5.jpg",
+      "./images/paver/light-travertine/light-travertine-paver6.jpg",
+      "./images/paver/light-travertine/light-travertine-paver7.jpg",
+      "./images/paver/light-travertine/light-travertine-paver8.jpg"
+      ],
+      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "featured": false
+    },
+      {
+      "id": "21",
+      "product__type": "paver",
+      "title": "Myra Beige",
+      "image": [
+      "./images/paver/myra-fossil-beige/myra-fossil-beige-paver1.jpg",
+      "./images/paver/myra-fossil-beige/myra-fossil-beige-paver2.jpg",
+      "./images/paver/myra-fossil-beige/myra-fossil-beige-paver3.jpg",
+      "./images/paver/myra-fossil-beige/myra-fossil-beige-paver4.jpg",
+      "./images/paver/myra-fossil-beige/myra-fossil-beige-paver5.jpg",
+      "./images/paver/myra-fossil-beige/myra-fossil-beige-paver6.jpg"
+    ],
+      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "featured": false
+    },
+      {
+      "id": "22",
+      "product__type": "paver",
+      "title": "Palazzo",
+      "image": [
+      "./images/paver/palazzo/palazzo-marble-paver1.jpg",
+      "./images/paver/palazzo/palazzo-marble-paver2.jpg",
+      "./images/paver/palazzo/palazzo-marble-paver3.jpg",
+      "./images/paver/palazzo/palazzo-marble-paver4.jpg",
+      "./images/paver/palazzo/palazzo-marble-paver5.jpg",
+      "./images/paver/palazzo/palazzo-marble-paver6.jpg",
+      "./images/paver/palazzo/palazzo-marble-paver7.jpg",
+      "./images/paver/palazzo/palazzo-marble-paver8.jpg",
+      "./images/paver/palazzo/palazzo-marble-paver9.jpg",
+      "./images/paver/palazzo/palazzo-marble-paver10.jpeg",
+      "./images/paver/palazzo/palazzo-marble-paver11.jpeg",
+      "./images/paver/palazzo/palazzo-marble-paver12.jpeg",
+      "./images/paver/palazzo/palazzo-marble-paver13.jpeg",
+      "./images/paver/palazzo/palazzo-marble-paver14.jpeg",
+      "./images/paver/palazzo/palazzo-marble-paver15.jpeg",
+      "./images/paver/palazzo/palazzo-marble-paver16.jpeg",
+      "./images/paver/palazzo/palazzo-marble-paver17.jpeg",
+      "./images/paver/palazzo/palazzo-marble-paver18.jpeg",
+      "./images/paver/palazzo/palazzo-marble-paver19.jpeg",
+      "./images/paver/palazzo/palazzo-marble-paver20.jpeg",
+      "./images/paver/palazzo/palazzo-marble-paver21.jpeg",
+      "./images/paver/palazzo/palazzo-marble-paver22.jpeg",
+      "./images/paver/palazzo/palazzo-marble-paver23.jpeg",
+      "./images/paver/palazzo/palazzo-marble-paver24.jpeg",
+      "./images/paver/palazzo/palazzo-marble-paver25.jpg"
+    ],
+      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "featured": false
+    },
+      {
+      "id": "23",
+      "product__type": "paver",
+      "title": "Philadelphia",
+      "image": [
+      "./images/paver/philadelphia/philadelphia-travertine-paver1.jpg",
+      "./images/paver/philadelphia/philadelphia-travertine-paver2.jpg",
+      "./images/paver/philadelphia/philadelphia-travertine-paver3.jpg",
+      "./images/paver/philadelphia/philadelphia-travertine-paver4.jpg",
+      "./images/paver/philadelphia/philadelphia-travertine-paver5.jpg",
+      "./images/paver/philadelphia/philadelphia-travertine-paver6.jpg"
+    ],
+      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "featured": false
+    },
+    {
+      "id": "24",
+      "product__type": "paver",
+      "title": "Scabos Travertine",
+      "image": [
+      "./images/paver/scabos-travertine/scabos-paver1.jpg",
+      "./images/paver/scabos-travertine/scabos-paver2.jpg",
+      "./images/paver/scabos-travertine/scabos-paver3.jpg",
+      "./images/paver/scabos-travertine/scabos-paver4.jpg",
+      "./images/paver/scabos-travertine/scabos-paver5.jpg"
+      ],
+      "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+      "featured": false
+    },
+    {
+      "id": "25",
+      "product__type": "paver",
+      "title": "Silver Travertine",
+      "image": [
+      "./images/paver/silver-travertine/silver-travertine-paver1.jpg",
+      "./images/paver/silver-travertine/silver-travertine-paver2.jpg",
+      "./images/paver/silver-travertine/silver-travertine-paver3.jpg",
+      "./images/paver/silver-travertine/silver-travertine-paver4.jpg",
+      "./images/paver/silver-travertine/silver-travertine-paver5.jpg",
+      "./images/paver/silver-travertine/silver-travertine-paver6.jpg",
+      "./images/paver/silver-travertine/silver-travertine-paver7.jpg",
+      "./images/paver/silver-travertine/silver-travertine-paver8.jpg",
+      "./images/paver/silver-travertine/silver-travertine-paver9.jpg",
+      "./images/paver/silver-travertine/silver-travertine-paver10.jpg",
+      "./images/paver/silver-travertine/silver-travertine-paver11.jpg",
+      "./images/paver/silver-travertine/silver-travertine-paver12.jpg",
+      "./images/paver/silver-travertine/silver-travertine-paver13.jpg",
+      "./images/paver/silver-travertine/silver-travertine-paver14.jpg"
+    ],
+    "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+    "featured": false
+  },
+  {
+    "id": "26",
+    "product__type": "paver",
+    "title": "Tundra Gray",
+    "image": [
+    "./images/paver/tundra-grey/tundra-grey-paver1.jpg",
+    "./images/paver/tundra-grey/tundra-grey-paver2.jpg",
+    "./images/paver/tundra-grey/tundra-grey-paver3.jpg",
+    "./images/paver/tundra-grey/tundra-grey-paver4.jpg",
+    "./images/paver/tundra-grey/tundra-grey-paver5.jpg",
+    "./images/paver/tundra-grey/tundra-grey-paver6.jpg",
+    "./images/paver/tundra-grey/tundra-grey-paver7.jpg",
+    "./images/paver/tundra-grey/tundra-grey-paver8.jpg",
+    "./images/paver/tundra-grey/tundra-grey-paver9.jpg",
+    "./images/paver/tundra-grey/tundra-grey-paver10.jpg",
+    "./images/paver/tundra-grey/tundra-grey-paver11.jpg",
+    "./images/paver/tundra-grey/tundra-grey-paver12.jpg",
+    "./images/paver/tundra-grey/tundra-grey-paver13.jpg"
+  ],
+  "detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+  "featured": false
+},
+{
+  "id": "27",
+  "product__type": "paver",
+  "title": "White Cosmos",
+  "image": [
+  "./images/paver/white-cosmos/white-cosmos-sand-blasted-paver1.jpg",
+  "./images/paver/white-cosmos/white-cosmos-sand-blasted-paver2.jpg",
+  "./images/paver/white-cosmos/white-cosmos-sand-blasted-paver3.jpg",
+  "./images/paver/white-cosmos/white-cosmos-sand-blasted-paver4.jpg",
+  "./images/paver/white-cosmos/white-cosmos-sand-blasted-paver5.jpg"
+],
+"detail": "./images/Ekran Resmi 2023-04-10 14.35.52.png",
+"featured": false
+}
+
   ]
 }
