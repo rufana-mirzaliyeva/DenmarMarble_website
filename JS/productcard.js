@@ -43,8 +43,6 @@ const productImg = async () => {
   const data = await response.json()
   const product = data.items.find(data => data.id == id)
 
-  
-
   product.image.map(img => {
     mainSliderImg.innerHTML += `
       <li class="splide__slide"> 
@@ -53,14 +51,11 @@ const productImg = async () => {
     imgUl.innerHTML += `<li class="splide__slide">
     <img src=${img} alt="" "/>
     </li>`
-     
-    
   });
   slider_load();
  
 }
 productImg();
-
 
 
 
