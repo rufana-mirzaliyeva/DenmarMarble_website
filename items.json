@@ -382,7 +382,7 @@
     },
       {
       "id": "19",
-      "product__type": "luxury",
+      "product__type": "paver",
       "title": "Gotham Black",
       "image": [
       "./images/paver/gotham-black/gotham-black-paver1.jpg",
@@ -523,19 +523,19 @@
     "product__type": "paver",
     "title": "Tundra Gray",
     "image": [
-    "./images/paver/tundra-grey/tundra-grey-paver1.jpg",
-    "./images/paver/tundra-grey/tundra-grey-paver2.jpg",
-    "./images/paver/tundra-grey/tundra-grey-paver3.jpg",
-    "./images/paver/tundra-grey/tundra-grey-paver4.jpg",
-    "./images/paver/tundra-grey/tundra-grey-paver5.jpg",
-    "./images/paver/tundra-grey/tundra-grey-paver6.jpg",
-    "./images/paver/tundra-grey/tundra-grey-paver7.jpg",
-    "./images/paver/tundra-grey/tundra-grey-paver8.jpg",
-    "./images/paver/tundra-grey/tundra-grey-paver9.jpg",
-    "./images/paver/tundra-grey/tundra-grey-paver10.jpg",
-    "./images/paver/tundra-grey/tundra-grey-paver11.jpg",
-    "./images/paver/tundra-grey/tundra-grey-paver12.jpg",
-    "./images/paver/tundra-grey/tundra-grey-paver13.jpg"
+    "./images/paver/tundra-gray/tundra-grey-paver1.jpg",
+    "./images/paver/tundra-gray/tundra-grey-paver2.jpg",
+    "./images/paver/tundra-gray/tundra-grey-paver3.jpg",
+    "./images/paver/tundra-gray/tundra-grey-paver4.jpg",
+    "./images/paver/tundra-gray/tundra-grey-paver5.jpg",
+    "./images/paver/tundra-gray/tundra-grey-paver6.jpg",
+    "./images/paver/tundra-gray/tundra-grey-paver7.jpg",
+    "./images/paver/tundra-gray/tundra-grey-paver8.jpg",
+    "./images/paver/tundra-gray/tundra-grey-paver9.jpg",
+    "./images/paver/tundra-gray/tundra-grey-paver10.jpg",
+    "./images/paver/tundra-gray/tundra-grey-paver11.jpg",
+    "./images/paver/tundra-gray/tundra-grey-paver12.jpg",
+    "./images/paver/tundra-gray/tundra-grey-paver13.jpg"
   ],
   "detail": "./images/ek.png",
   "featured": false

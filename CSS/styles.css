@@ -264,8 +264,8 @@ img {
 }
 
 .slider {
-  max-width: 600px;
-  height: 400px;
+  max-width: 300px;
+  height:250px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -275,8 +275,8 @@ img {
 
 .home__img {
   position: absolute;
-  width: 500px;
-  height: 350px;
+  width: 300px;
+  height: 250px;
   transition: 0.8s;
   opacity: 0;
   padding-inline: .5rem;
@@ -391,8 +391,8 @@ img {
 
 .quote__container {
   position: absolute;
-  width: 50%;
-  bottom: 50px;
+  width: 70%;
+  bottom: 20px;
   left: 20px;
 }
 .quote {
@@ -400,7 +400,8 @@ img {
   opacity: 0.5;
   color: white;
   padding: 1rem;
-  font-size: var(--tiny-font-size);
+  text-align: left;
+  font-size: 7px;
 }
 /* ===== CONTACT PAGE =====*/
 
@@ -537,7 +538,7 @@ img {
   color: var(--text-color);
   font-weight: var(--font-medium);
   margin-top: 5rem;
-  margin-left: 1rem;
+
 }
 .address {
   width: 100%;
@@ -663,10 +664,18 @@ iframe {
 /* ========== BREAKPOINTS ========== */
 
 /* ===== For small devices ===== */
-@media screen and (max-width: 320px) {
-  .container {
-    margin-inline: 1rem;
+@media screen and (min-width: 320px) {
+  .slider {
+    max-width: 450px;
+    height: 300px;
   }
+  
+  .home__img {
+    width: 450px;
+    height: 300px;
+  }
+
+
 }
 
 /* ===== For medium devices ===== */
@@ -681,14 +690,29 @@ iframe {
     grid-template-columns: 0.7fr;
     justify-content: center;
   }
+  .slider{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    
+  }
+  .home__img {
+    height: 300px;
+    
+  }
 
-  .featured__container,
-  .luxury__container,
-  .paver__container {
+
+  .product__container {
     grid-template-columns: repeat(2, 1fr);
     justify-content: center;
     align-items: flex-start;
     gap: 1.5rem;
+  }
+
+  .quote__container {
+    width: 70%;
+  }
+  .quote {
+    font-size: var(--small-font-size);
   }
 }
 
@@ -753,13 +777,13 @@ iframe {
   }
 
   .slider {
-    width: 900px;
+    width: 800px;
   }
   .home__img {
-    width: 600px;
+    width: 550px;
     height: 400px;
+  
   }
-
 
   .product__container {
     grid-template-columns: repeat(3, 1fr);
@@ -771,6 +795,10 @@ iframe {
 
   .contact__container {
     grid-template-columns: repeat(2, 1fr);
+  }
+  .quote__container{
+    width: 50%;
+    bottom: 70px;
   }
   .quote {
     font-size: var(--normal-font-size);
@@ -795,6 +823,10 @@ iframe {
 
   .section__description {
     padding-inline: 0 0.5rem;
+  }
+  .slider{
+    margin: auto;
+    
   }
   .home__img {
     width: 550px;

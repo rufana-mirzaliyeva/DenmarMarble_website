@@ -56,7 +56,6 @@ const productImg = async () => {
     </li>`
   });
   slider_load();
-
 }
 productImg(); 
 
