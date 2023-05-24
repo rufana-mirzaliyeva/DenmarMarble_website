@@ -23,28 +23,39 @@
   
   #main-slider img {
     max-width: 100%;
-    height: 100%;
+    height: 550px;
     object-fit: cover;
   }
   
   #thumbnail-slider {
     margin-top: 2rem;
   }
+ 
   
   .splide__slide img {
     width: 100%;
     height: 100%;
-    object-fit: contain;
+ object-fit: contain;
+ border: none;
    
   }
   .splide__slide {
-    opacity: 0.6;
+    opacity: 0.7;
+    
   }
   
   .splide__slide.is-active {
     opacity: 1;
+    border-color: white;
   }
-  
+  .splide__list{
+    margin-left: 5rem;
+  }
+  .splide__arrow--prev,
+  .splide__arrow--next{
+    opacity: 1;
+   
+  }
   .product__card {
     display: grid;
   }
@@ -106,6 +117,8 @@
     cursor: pointer;
   }
   
+
+ 
   @media screen and (min-width: 576px) {
     #modal__image {
       margin-top: 0;

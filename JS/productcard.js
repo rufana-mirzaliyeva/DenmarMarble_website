@@ -9,7 +9,7 @@ const slider_load = () => {
   var thumbnails = new Splide("#thumbnail-slider", {
     fixedWidth: 100,
     fixedHeight: 60,
-    gap: 10,
+    gap: 5,
     rewind: true,
     pagination: false,
     isNavigation: true,

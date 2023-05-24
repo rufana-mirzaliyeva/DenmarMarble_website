@@ -14,14 +14,13 @@ showMenu("header-toggle", "nav-menu");
 
 /*===== ACTIVE AND REMOVE MENU =====*/
 const navLink = document.querySelectorAll(".nav__link");
-const navMenu = document.getElementById("nav-menu");
-
 function linkAction() {
-  /*Active link*/
+  /* Active link */
   navLink.forEach((n) => n.classList.remove("active"));
   this.classList.add("active");
-  navMenu.classList.remove("show");
+   /* Activate child dropdown items */
 }
+
 navLink.forEach((n) => n.addEventListener("click", linkAction));
 
 /* ---EMAIL JS--- */
@@ -74,11 +73,7 @@ function clearForm() {
 
 contactForm.addEventListener("submit", sendEmail);
 
-/* ---FOOTER--- */
 
-//setting date for footer
-const date = document.getElementById("date");
-date.innerHTML = new Date().getFullYear();
 
 /* ---SHOW SCROLL UP--- */
 const navbar = document.getElementById("nav-menu");
@@ -92,5 +87,9 @@ window.addEventListener("scroll", function () {
   }
 });
 
+/* ---FOOTER--- */
 
+//setting date for footer
+const date = document.getElementById("date");
+date.innerHTML = new Date().getFullYear();
 
