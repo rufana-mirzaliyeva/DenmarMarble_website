@@ -54,12 +54,13 @@ const productImg = async () => {
     imgUl.innerHTML += `<li class="splide__slide">
     <img src=${img} alt="" "/>
     </li>`
+    productDetail.innerHTML = `<img src="${product.detail}" alt="">`;
   });
   slider_load();
 }
 productImg(); 
 
-// <img src=${} alt="">
+
 
 
 
