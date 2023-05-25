@@ -360,7 +360,7 @@
         "./images/paver/palazzo/palazzo-marble-paver25.jpg"
       ],
       "detail": "./images/paver-detail/palazzo-detail.png",
-      "featured": false
+      "featured": true
     },
     {
       "id": "17",
@@ -383,7 +383,7 @@
         "./images/paver/silver-travertine/silver-travertine-paver14.jpg"
       ],
       "detail": "./images/paver-detail/silver-travertine-detail.png",
-      "featured": false
+      "featured": true
     },
     {
       "id": "18",
@@ -398,7 +398,7 @@
         "./images/paver/carrara-misty/carrara-misty-paver6.jpeg"
       ],
       "detail": "./images/paver-detail/carrara-misty-detail.png",
-      "featured": false
+      "featured": true
     },
     {
       "id": "19",
@@ -418,7 +418,7 @@
         "./images/paver/arabescato/arabescato-paver3.jpeg"
       ],
       "detail": "./images/paver-detail/arabescato-detail.png",
-      "featured": false
+      "featured": true
     },
     {
       "id": "20",

@@ -272,7 +272,7 @@ img {
   justify-content: center;
   margin: auto;
 }
-.red{
+.section__description span{
   color: red;
 }
 
