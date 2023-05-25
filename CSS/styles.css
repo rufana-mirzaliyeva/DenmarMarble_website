@@ -272,7 +272,7 @@ img {
   justify-content: center;
   margin: auto;
 }
-.section__description span{
+.red{
   color: red;
 }
 
@@ -543,6 +543,7 @@ img {
   margin-top: 5rem;
 
 }
+
 .address {
   width: 100%;
   display: flex;
