@@ -48,10 +48,10 @@ const sendEmail = (e) => {
   } else {
     emailjs
       .sendForm(
-        "service_ctuxvjn",
-        "template_rcic6h8",
+        "service_810bawe",
+        "template_218c26c",
         "#contact__form",
-        "Dm6U7UPx2AFbbd08A"
+        "Vt6hwpwkwlwCLN740"
       )
       .then(() => {
         contactMessageAlert.classList.add("color-blue");
