@@ -1,127 +1,129 @@
 /* ===== PRODUCT CARD PAGE ===== */
 
-.product__card {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-    margin-top: -1rem;
-    grid-template-columns: repeat(2fr, 1);
-  }
-  .gallery {
-    margin: auto;
-    width: 60%;
-    height: auto;
-  }
-  .splide {
-    margin: auto;
-  }
-  #main-slider .splide__track {
-    width: 100%;
-    height: 550px;
-  }
-  
-  #main-slider img {
-    max-width: 100%;
-    height: 550px;
-    object-fit: cover;
-  }
-  
-  #thumbnail-slider {
-    margin-top: 2rem;
-  }
- 
-  
-  .splide__slide img {
-    width: 100%;
-    height: 100%;
- object-fit: contain;
- border: none;
-   
-  }
-  .splide__slide {
-    opacity: 0.7;
-    
-  }
-  
-  .splide__slide.is-active {
-    opacity: 1;
-    border-color: white;
-  }
-  .splide__list{
-    margin-left: 5rem;
-  }
-  .splide__arrow--prev,
-  .splide__arrow--next{
-    opacity: 1;
-   
-  }
-  .product__card {
-    display: grid;
-  }
-  
-  .product__detail {
-    width: 100%;
-    display: flex;
-    margin-top: 6rem;
-    background-color: white;
-  }
-  
-  .product__detail img {
-    width: 60%;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-    background-color: white;
-  }
-  
-  /* The Modal (background) */
-  .modal {
-    margin-top: -2.5rem;
-    display: none;
-    position: fixed;
-    z-index: 100;
-    width: 100%;
-    height: 100vh;
-    background-color: var(--body-color);
-  }
-  
-  .modal-content {
-    width: 95%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-  }
-  
-  #modal__image {
-    width: 100%;
-    height: 780px;
-    object-fit: contain;
-    margin: auto;
-    padding: 2rem;
-    margin-top: -2rem;
-  }
-  
-  /* The Close Button */
-  .close {
-  position: relative;
-    color: #000;
-    display: block;
-    font-size: 28px;
-    font-weight: bold;
-  }
-  
-  .close:hover,
-  .close:focus {
-    cursor: pointer;
-  }
-  
+.gallery {
+  margin: auto;
+  width: 60%;
+  height: auto;
+  margin-top: 1rem;
+}
 
- 
-  @media screen and (min-width: 576px) {
-    #modal__image {
-      margin-top: 0;
-    }
-    
+#main-slider .splide__track {
+  width: 100%;
+  height: 200px;
+}
+
+#main-slider img {
+  max-width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+#thumbnail-slider {
+  margin-top: 1.5rem;
+}
+
+.splide__slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.splide__slide {
+  opacity: 0.7;
+}
+
+.splide__slide.is-active {
+  opacity: 1;
+}
+
+.splide__arrow--prev,
+.splide__arrow--next {
+  opacity: 1;
+}
+.product__card {
+  display: grid;
+}
+
+.product__detail {
+  width: 100%;
+  display: flex;
+  margin-top: 6rem;
+}
+
+.product__detail img {
+  width: 60%;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+  height: 100vh;
+  background-color: rebeccapurple;
+  margin-top: -0.9rem;
+}
+
+.modal-content {
+  width: 95%;
+  height: 750px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+#modal__image {
+  width: 100%;
+  height: 750px;
+  object-fit: contain;
+  margin: auto;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+/* The Close Button */
+.close {
+  position: relative;
+  color: #000;
+  display: block;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  cursor: pointer;
+}
+
+@media screen and (min-width: 320px) {
+  #main-slider .splide__track,
+  #main-slider img {
+    height: 300px;
   }
+}
+@media screen and (min-width: 576px) {
+  #modal__image {
+    margin-top: 0;
+  }
+  #main-slider .splide__track,
+  #main-slider img {
+    height: 400px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  #main-slider .splide__track,
+  #main-slider img {
+    height: 500px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  #main-slider .splide__track,
+  #main-slider img {
+    height: 620px;
+  }
+}
